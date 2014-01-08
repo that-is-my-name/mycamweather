@@ -1,0 +1,10 @@
+Package: mycamweather
+Type: Package
+Title: Plot weather.
+Version: 1.1
+Date: 2014-01-08
+Author: The Author
+Maintainer: The Author <yourfault@somewhere.net>
+Description: This package plots the Cambridge weather.
+Depends: camweather
+License: GPL-2
